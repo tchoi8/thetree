@@ -16,11 +16,12 @@ The Tree (The Three of Knowledge and Technology)
 - for empowering the oppressed and the minority by introducing new tools  
 
 
+![](https://github.com/tchoi8/thetree/blob/master/Tree.jpg?raw=true =400x)
+
 ##Short term goal 
 
--  Tech Tree Workshop : Basic digital literacy, tools for research and publication. A workshop to connect the autodidact in search of community of learners, to produce a tree of knowledge.   
-- Connect with independent individual, family, organization, collective, company and school to identify their issues and perspectives.  
-- Low budget prototype of 'The Tree' to meet their situation 
+-  Tech Tree Workshop : Basic digital literacy and computer programming workshop for research and publication. A workshop to connect the autodidact in search of community of learners, to produce their own Tree of Knowledge and Technology.   
+- Connect with independent individual, family, organization, collective, company and school to identify their issues and perspectives, low budget prototype of 'The Tree' to meet their situation 
 
 ##Long term goal 
 
