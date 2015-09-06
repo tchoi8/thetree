@@ -10,7 +10,8 @@ The Tree of Knowledge and Technology
 
 #for  
 
-- for challenging the unjust social system, environmental concerns and bring the unseen inequalities to light  
+- for challenging the unjust social system and bring the unseen inequalities to light  
+- for empathetic communcation and affective learning 
 - for making knowledge accessible and to demystify technology 
 - for empowering the oppressed and the minority by introducing new tools and opportunities
 
@@ -27,6 +28,8 @@ The Tree of Knowledge and Technology
 
 - What matters most?: Questions for advisors and community to identify the most critical issues from diverse perspectives 
 - Tech Tree Workshop : Digital literacy and computer programming workshop for everyone. 
+- Try and improve team structure for the researh group 
+
 
 ##Long term goal 
 
@@ -36,14 +39,19 @@ The Tree of Knowledge and Technology
 - Give grants through nomination and competition  
 	- The Seed Micro Grant: $500~1000 grants for youth working on their own art or science project. International fundraising and open call  
 	- The Pollen Travel Grant: $2000 grant for international research trip 
-
+- Develop working method for research groups 
+ 
 ##Fundraising model 
 - Consulting and Service 
 	- Accessiblity design 
 	- Interactive technology
 	- Digital publication 
-- Grant writing 
-- Membership 
-- Benefit 
-	- Gala 
-	- Auction 
+	- Incubating and launching start ups 
+- Grant and commission  
+- Membership and benefit 
+
+##Inspiration
+
+- [Ashoka](https://www.ashoka.org/)
+- [Start Empathy](https://startempathy.org)
+- [The Feast on Good](http://feastongood.com/	)
