@@ -33,7 +33,7 @@ The Tree of Knowledge and Technology
 
 ##Long term goal 
 
-- Non for profit foundation to raise awareness and support structure for the cause.  
+- Non Profit Organization or Charitable Foundation to raise awareness and support structure for the cause   
 - Partner with technology organization and digital literacy initiatives to provide learning opportunity  
 - Develop and connect sustainable career opportunity for the community  
 - Give grants through nomination and competition  
@@ -52,6 +52,16 @@ The Tree of Knowledge and Technology
 
 ##Inspiration
 
+- [CAMP](http://studio.camp/)
 - [Ashoka](https://www.ashoka.org/)
 - [Start Empathy](https://startempathy.org)
-- [The Feast on Good](http://feastongood.com/	)
+- [The Feast on Good](http://feastongood.com/)
+- [Stephanie Pi](https://pibloginthesky.wordpress.com/)
+- [P5.JS Community Statement](http://p5js.org/community/)
+- [Facets](http://www.facets-con.com/)
+- [Radical Networks](http://radicalnetworks.org/)
+- [Abler](http://ablersite.org/)
+- [Sarai](http://sarai.net/)
+- [Critical Engineering](https://criticalengineering.org/)
+- [Change you want to see](http://notanalternative.org/)
+- [Fabcoop](http://fabcoop.org/)
