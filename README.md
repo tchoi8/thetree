@@ -10,9 +10,9 @@ The Tree of Knowledge and Technology
 
 #for  
 
-- for challenging the unjust social system and bring the unseen inequalities to light  
-- for empathetic communcation and affective learning 
 - for making knowledge accessible and to demystify technology 
+- for empathetic communcation and affective learning 
+- for challenging the unjust social system and bring the unseen inequalities to light  
 - for empowering the oppressed and the minority by introducing new tools and opportunities
 
 
@@ -65,3 +65,5 @@ The Tree of Knowledge and Technology
 - [Critical Engineering](https://criticalengineering.org/)
 - [Change you want to see](http://notanalternative.org/)
 - [Fabcoop](http://fabcoop.org/)
+- [MIT Center for Civic Media](https://civic.mit.edu/)
+- [Berkman Center for Internet & Society](https://cyber.law.harvard.edu)
