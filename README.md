@@ -11,29 +11,26 @@ The Tree of Knowledge and Technology
 #for  
 
 - for making knowledge accessible and to demystify technology 
-- for empathetic communcation and affective learning 
+- for empathetic communication and affective learning 
 - for challenging the unjust social system and bring the unseen inequalities to light  
 - for empowering the oppressed and the minority by introducing new tools and opportunities
 
 
 #with 
 
-- artists, activists, technologists and grassroots organizations 
-- art, cultural, academic institutions and corporations 
-- collaboration, partnership, sponsorship with anyone who shares the vision 
+- collaborators: artists, activists, technologists and grassroots organizations 
+- partners: art, cultural, academic institutions and corporations 
 
 ![](https://github.com/tchoi8/thetree/blob/master/Tree.jpg?raw=true =400x)
 
 ##Short term goal 
 
-- What matters most?: Questions for advisors and community to identify the most critical issues from diverse perspectives 
-- Tech Tree Workshop : Digital literacy and computer programming workshop for everyone. 
-- Try and improve team structure for the researh group 
-
+- What matters most?: Questions for our community to identify the most critical issues in distribution of technology and knowledge.  
+- [Tech Tree Workshop](https://github.com/tchoi8/thetree/tree/master/techtreeworkshop) : Digital literacy and computer programming workshop for everyone. 
 
 ##Long term goal 
 
-- Non Profit Organization or Charitable Foundation to raise awareness and support structure for the cause   
+- Non Profit Organization or Charitable Foundation to raise awareness and support for the cause   
 - Partner with technology organization and digital literacy initiatives to provide learning opportunity  
 - Develop and connect sustainable career opportunity for the community  
 - Give grants through nomination and competition  
@@ -43,10 +40,10 @@ The Tree of Knowledge and Technology
  
 ##Fundraising model 
 - Consulting and Service 
+	- Education 
 	- Accessiblity design 
 	- Interactive technology
 	- Digital publication 
-	- Incubating and launching start ups 
 - Grant and commission  
 - Membership and benefit 
 
